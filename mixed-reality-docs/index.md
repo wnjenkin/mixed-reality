@@ -15,6 +15,31 @@ Mixed reality blends real-world and virtual content into hybrid environments whe
 
 <br>
 
+:::row:::
+    :::column:::
+        ![Fundamentals icon](images/GetStartedIcon.jpg)
+        ### Fundamentals
+        Get started with mixed reality key concepts, core building blocks, and app paradigms.
+    :::column-end:::
+    :::column:::
+        ![Academy icon](images/AcademyIcon.jpg)
+        ### Academy
+        See code examples, do a coding tutorial and watch guest lectures. 
+    :::column-end:::
+    :::column:::
+        ![Design icon](images/DesignIcon.jpg)
+        ### Design
+        Get design guidance, build user interface and learn interaction and input.
+    :::column-end:::
+:::row-end:::
+:::row:::
+    :::column:::
+        ![Development icon](images/DevelopIcon.jpg)
+        ### Development
+        Get development guides, learn the technology and understand the science.
+    :::column-end:::
+:::row-end:::
+
 <ul id="cardtypes-W" class="cardsW panelContent" style="display: flex; margin-top: 0px;">
                             <li>
                               <a href="mixed-reality.md" title="What is mixed reality?" data-linktype="absolute-path">
