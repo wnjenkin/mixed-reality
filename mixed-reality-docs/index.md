@@ -38,6 +38,10 @@ Mixed reality blends real-world and virtual content into hybrid environments whe
         ### Development
         Get development guides, learn the technology and understand the science.
     :::column-end:::
+    :::column:::
+    :::column-end:::
+    :::column:::
+    :::column-end:::
 :::row-end:::
 
 <ul id="cardtypes-W" class="cardsW panelContent" style="display: flex; margin-top: 0px;">
