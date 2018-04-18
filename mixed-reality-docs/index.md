@@ -22,20 +22,20 @@ Mixed reality blends real-world and virtual content into hybrid environments whe
         Get started with mixed reality key concepts, core building blocks, and app paradigms.
     :::column-end:::
     :::column:::
-        ![Academy icon](images/AcademyIcon.jpg)
-        ### Academy
+        [![Academy icon](images/AcademyIcon.jpg)](academy.md)
+        ### [Academy](academy.md)
         See code examples, do a coding tutorial and watch guest lectures. 
     :::column-end:::
     :::column:::
-        ![Design icon](images/DesignIcon.jpg)
-        ### Design
+        [![Design icon](images/DesignIcon.jpg)](design.md)
+        ### [Design](design.md)
         Get design guidance, build user interface and learn interaction and input.
     :::column-end:::
 :::row-end:::
 :::row:::
     :::column:::
-        ![Development icon](images/DevelopIcon.jpg)
-        ### Development
+        [![Development icon](images/DevelopIcon.jpg)](development.md)
+        ### [Development](development.md)
         Get development guides, learn the technology and understand the science.
     :::column-end:::
     :::column:::
@@ -49,13 +49,13 @@ Mixed reality blends real-world and virtual content into hybrid environments whe
 
 :::row:::
     :::column:::
-        ![MRTK icon](images/MRTKIcon.jpg)
-        ### Open source projects
+        [![MRTK icon](images/MRTKIcon.jpg)](open-source-projects.md)
+        ### [Open source projects](open-source-projects.md)
         These open source projects, sample apps, and toolkits should help you accelerate development of applications targeting Microsoft HoloLens and Windows Mixed Reality immersive headsets. Leverage anything you find here and please contribute back as you learn - our whole community will benefit!
     :::column-end:::
     :::column:::
-    ![Enthusiast Guide icon](images/EnthusiastsGuideIcon_a.jpg)
-        ### Immersive headset Enthusiast's Guide
+    [![Enthusiast Guide icon](images/EnthusiastsGuideIcon_a.jpg)](//docs.microsoft.com/en-us/windows/mixed-reality/enthusiast-guide/)
+        ### [Immersive headset Enthusiast's Guide](//docs.microsoft.com/en-us/windows/mixed-reality/enthusiast-guide/)
         We know you might be looking to dive deeper on Windows Mixed Reality and learn how to get the most of your new headset and motion controllers, so we created the Enthusiast's Guide to provide you with exclusive information and answer the top questions people have about Windows Mixed Reality before and after they buy.
     :::column-end:::
     :::column:::
